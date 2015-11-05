@@ -13,7 +13,7 @@ When developing Heron, our main goals were to increase performance predictabilit
 
 The overall architecture for Heron is shown here in Figure 1 and Figure 2. Users employ the Storm API to create and submit topologies to a scheduler. The scheduler runs each topology as a job consisting of several containers. One of the containers runs the topology master, responsible for managing the topology. The remaining containers each run a stream manager responsible for data routing, a metrics manager that collects and reports various metrics and a number of processes called Heron instances which run the user-defined spout/bolt code. These containers are allocated and scheduled by scheduler based on resource availability across the nodes in the cluster. The metadata for the topology, such as physical plan and execution details, are kept in Zookeeper.
 
-<img src="https://cloud.githubusercontent.com/assets/367684/10960657/7197f44e-833a-11e5-99c8-34d97051f5e1.png" width="15%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/367684/10960657/7197f44e-833a-11e5-99c8-34d97051f5e1.png" width="50%"></img> 
 
 Heron Architecture
 
