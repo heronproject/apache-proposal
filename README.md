@@ -123,22 +123,29 @@ JIRA: Heron (HERON)
 
 ## Initial Committers
 
-* Karthik Ramasamy
-* Jake Farrell
-* Maosong Fu
-* Sailesh Mittal
+* Karthik Ramasamy 
+* Maosong Fu 
+* Nikunj Bhagat 
+* Sailesh Mittal 
 * Vikas Ramesh Kedigehalli
 * Siddharth Taneja
+* Bill Graham
+* Chris Kellogg
+* Andrew Jorgensen
+* Jingwei Wu
 
 ## Affiliations
 
-* Karthik Ramasamy - Twitter
-* Jake Farrell
-* Maosong Fu - Twitter
-* Sailesh Mittal - Twitter
-* Vikas Ramesh Kedigehalli - Twitter
-* Siddharth Taneja - Google
-* TODO
+* Karthik Ramasamy (Twitter)
+* Maosong Fu (Twitter)
+* Nikunj Bhagat (Google)
+* Sailesh Mittal (Twitter)
+* Vikas Ramesh Kedigehalli (Twitter)
+* Siddharth Taneja (Google)
+* Bill Graham (Twitter)
+* Chris Kellogg (Twitter)
+* Andrew Jorgensen (Twitter)
+* Jingwei Wu (Twitter)
 
 ## Sponsors
 
@@ -148,7 +155,7 @@ JIRA: Heron (HERON)
 
 ### Nominated Mentors
 
-* Jake Farrell
+* Jacques Nadeau
 * Dave Lester
 * TODO
 
