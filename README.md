@@ -21,7 +21,7 @@ Figure 2. Heron Topology Architecture
 
 ## Rationale
 
-Heron is built to be used by anyone.
+Heron is built to be used by anyone. We believe that a different architecture for the underlying runtime of topology execution with a fully compatible API will benefit the Storm ecosystem.
 
 Furthermore, the rapid growth of Heron community is empowered by open source. We believe the Apache foundation is a great fit as the long-term home for Heron, as it provides an established process for community-driven development and decision making by consensus. This is exactly the model we want for future Heron development.
 
@@ -50,7 +50,7 @@ Heron was [initially developed](https://blog.twitter.com/2015/flying-faster-with
 
 ### Alignment
 
-We believe that having Heron at Apache will help further the growth of the streaming compute community, as it will encourage cooperation within the Apache Storm project.
+We believe that having Heron at Apache will help further the growth of the streaming compute community, as it will encourage further cooperation within the Apache Storm project.
 
 ## Known Risks
 
@@ -64,7 +64,7 @@ Several of the core contributors to the project are familiar with OSS and Apache
 
 ### Homogenous Developers
 
-Initial committers come from a number of companies. Our intention is increase the diversity of contributing developers and their affiliations, and we'll recognize contributions and contributors as the community grows at Apache. We encouraged by interest in the project thus far.
+Initial committers come from a number of companies (list?). Our intention is increase the diversity of contributing developers and their affiliations, and we'll recognize contributions and contributors as the community grows at Apache. We encouraged by interest in the project thus far.
 
 ### Reliance on Salaried Developers
 
