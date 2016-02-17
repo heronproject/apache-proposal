@@ -152,6 +152,7 @@ JIRA: Heron (HERON)
 * Jake Farrell (jfarrell at apache dot org)
 * Jacques Nadeau (jacques at apache dot org)
 * Dave Lester (dlester at apache dot org)
+* Julien Le Dem (julien at apache dot org)
 * @TODO
 
 ### Sponsoring Entity
